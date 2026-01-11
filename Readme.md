@@ -24,6 +24,15 @@ This course is a hands-on, practical guide to **Continuous Integration and Conti
 
 ---
 
+## 💬 Join Our DevOps WhatsApp Community
+
+Stay updated with course announcements, demo class reminders, learning resources, and DevOps discussions.
+
+👉 **Join here:**  
+https://chat.whatsapp.com/EGw6ZlwUHZc82cA0vXFnwm
+
+---
+
 ## ⚙️ GitHub Actions Mastery
 
 You will gain deep expertise in building enterprise-grade CI/CD systems using GitHub Actions:
